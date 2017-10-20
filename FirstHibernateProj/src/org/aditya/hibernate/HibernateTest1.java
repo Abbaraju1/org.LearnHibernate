@@ -17,7 +17,7 @@ public class HibernateTest1 {
 		UserDetails2 user = new UserDetails2();
 		user.setUserName("First User");
 		
-		/*UserDetails2 user1 = new UserDetails2();
+		/*UserDetails2 user2 = new UserDetails2();
 		user1.setUserName("Second User");*/
 		
 		Address addr = new Address();
